@@ -1,0 +1,16 @@
+h1 { color: blue ; }
+.link{
+	position: absolute;
+	right: 40px;
+	width: 300px;
+    border: 1px solid white;
+    background-color: white;
+    padding: 5px;
+    
+
+}
+.box{
+	width: 700px;
+    border: 1px solid white;
+    background-color: white;
+    padding: 5px;}
