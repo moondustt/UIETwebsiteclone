@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>UIET</title>
+	<link rel="stylesheet" type="text/css" href="uietcss.css" media="all">
+    <style type="text/css">
+   a:link {color: black }
+   a:visited {color: #0000ff}
+   a:hover {color: #FFCC00}
+  
+</style>
+</head>
+<body bgcolor="#95B9C7">
+<br><br><br>
+<div class = "link">
+	<h3 align="center">IMPORTANT LINKS</h3>
+	<UL>
+		<li><a href="blank.html" >Attendance Rules and Reports</a></li>
+		<font>-------------------------------------------</font>
+<li><a href="blank.html" > Academic Calendar </a></li>
+<font>-------------------------------------------</font>
+<li><a href="blank.html" >Design Innovation Centre (DIC)</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >TELELABS</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >MAIVRIK Labs</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >Institutional Survey</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >National Apprenticeship Training Scheme (NATS)</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >NBA Accreditation</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >NIRF 2018</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >NIRF 2017</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >PhD Research Scholars</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >UIET @ FB</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >AICTE Compliance Report 2015-16</a> </li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >Annual Report 2014-15</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >QEEE 2016 Registration Form</a> </li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >IEEE 26th Quarterly Meet</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >Udyami E-summit</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >NBA Feedback Forms</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >Faculty Info</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >Forthcoming Events</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >Student Activities</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >Placements</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >News & Notices</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >Library</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >RTI UIET</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >Efficars</a></li>
+	<font>-------------------------------------------</font>
+<li><a href="blank.html" >NPTEL Videos (Intranet only) </a></li>
+
+		
+
+	</UL>
+</div>
+
+<br><br>
+
+</body>
+</html>
